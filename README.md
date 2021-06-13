@@ -14,7 +14,7 @@ Feel free to message me on Discord (Fuchsi#7800), both in private messages as we
 
 -----
 
-Since the issues on this project can range from "Just brainstormed this cool idea" to "pretty much fully developed the feature" I will document what I'm currently working on in this issue, to give users an overview of the current tasks im working on. 
+Since the issues on this project can range from "Just brainstormed this cool idea" to "pretty much fully developed the feature" I will document what I'm currently working on in the ReadMe, to give users an overview of the current tasks im working on. 
 This will not be a daily todo list, but instead is intended to give a general idea of current projects. 
 
 -----
